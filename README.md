@@ -118,7 +118,7 @@ Tempos de CPU aferidos via `System.CPUTime` no GHC 9.10.3:
 
 ## 📄 Relatório Técnico
 
-A documentação detalhada contendo a fundamentação teórica, validação passo a passo e análise crítica dos tempos de execução está disponível no arquivo [`Relatório Técnico.pdf`](https://www.google.com/search?q=./Relat%25C3%25B3rio%2520T%25C3%25A9cnico.pdf).
+A documentação detalhada contendo a fundamentação teórica, validação passo a passo e análise crítica dos tempos de execução está disponível no arquivo Relatório Técnico.pdf neste repositório.
 
 ---
 
