@@ -41,7 +41,6 @@ ghc -O2 portfolio.hs -o portfolio
 
 ```
 
-*(No Windows, execute `.\portfolio.exe`)*
 
 ### 2. Executando via interpretador interativo (GHCi)
 
