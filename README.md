@@ -21,7 +21,7 @@ Trabalho de **Programação Funcional** focado na implementação de métricas q
 ## 🗂️ Estrutura do Repositório
 
 ```text
-├── portifolio.hs                             # Código-fonte completo (implementação, validação B3 e benchmark)
+├── portfolio.hs                              # Código-fonte completo (implementação, validação B3 e benchmark)
 ├── Relatório Técnico.pdf                     # Relatório técnico completo com fundamentação e resultados
 └── README.md                                 # Documentação do projeto
 
@@ -36,19 +36,19 @@ Trabalho de **Programação Funcional** focado na implementação de métricas q
 Para obter medições reais de tempo de CPU no teste com 1.000.000 de elementos, compile com a flag `-O2`:
 
 ```bash
-ghc -O2 portifolio.hs -o portifolio
-./portifolio
+ghc -O2 portfolio.hs -o portfolio
+./portfolio
 
 ```
 
-*(No Windows, execute `.\portifolio.exe`)*
+*(No Windows, execute `.\portfolio.exe`)*
 
 ### 2. Executando via interpretador interativo (GHCi)
 
 Para testar funções isoladamente:
 
 ```bash
-ghci portifolio.hs
+ghci portfolio.hs
 
 ```
 
