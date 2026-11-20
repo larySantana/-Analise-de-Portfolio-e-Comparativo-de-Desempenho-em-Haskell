@@ -82,14 +82,14 @@ Utilizando uma semana de pregão para **PETR4** (`[38.20, 38.80, 37.90, 39.10, 3
 
 ## ⚡ Resultados do Benchmark ($N = 1.000.000$) e Análise Técnica
 
-Tempos de CPU aferidos via `System.CPUTime` no GHC 9.10.3[cite: 19]:
+Tempos de CPU aferidos via `System.CPUTime` no GHC 9.10.3:
 
 | Cenário de Teste | Estrutura | Modo Interpretado | Otimizado (`-O2`) |
 | :--- | :--- | :---: | :---: |
-| **Cenário 1:** Série Temporal (Retorno + Média) | Vetor (`Data.Array`) | `4,890625 s`[cite: 19] | `0,093750 s`[cite: 19] |
-| **Cenário 1:** Série Temporal (Retorno + Média) | Lista (`[Double]`) | `0,609375 s`[cite: 19] | `0,078125 s`[cite: 19] |
-| **Cenário 2:** Carteira Massiva (Produto Escalar) | Vetor (`Data.Array`) | `7,312500 s`[cite: 19] | `0,187500 s`[cite: 19] |
-| **Cenário 2:** Carteira Massiva (Produto Escalar) | Lista (`[Double]`) | `0,218750 s`[cite: 19] | `0,078125 s`[cite: 19] |
+| **Cenário 1:** Série Temporal (Retorno + Média) | Vetor (`Data.Array`) | `4,890625 s` | `0,093750 s` |
+| **Cenário 1:** Série Temporal (Retorno + Média) | Lista (`[Double]`) | `0,609375 s` | `0,078125 s` |
+| **Cenário 2:** Carteira Massiva (Produto Escalar) | Vetor (`Data.Array`) | `7,312500 s` | `0,187500 s` |
+| **Cenário 2:** Carteira Massiva (Produto Escalar) | Lista (`[Double]`) | `0,218750 s` | `0,078125 s` |
 
 ---
 
