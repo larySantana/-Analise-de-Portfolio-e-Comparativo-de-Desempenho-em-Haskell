@@ -21,9 +21,9 @@ Trabalho de **Programação Funcional** focado na implementação de métricas q
 ## 🗂️ Estrutura do Repositório
 
 ```text
-├── portifolio.hs                     # Código-fonte completo (implementação, validação B3 e benchmark)
-├── relatorio_portfolio_haskell.pdf   # Relatório técnico completo com fundamentação e resultados
-└── README.md                         # Documentação do projeto
+├── portifolio.hs                             # Código-fonte completo (implementação, validação B3 e benchmark)
+├── Relatório Técnico.pdf                     # Relatório técnico completo com fundamentação e resultados
+└── README.md                                 # Documentação do projeto
 
 ```
 
@@ -85,7 +85,7 @@ Utilizando uma semana de pregão para **PETR4** (`[38.20, 38.80, 37.90, 39.10, 3
 
 ## 📄 Relatório Técnico
 
-A documentação detalhada contendo a fundamentação teórica, código comentado, validação passo a passo e análise crítica dos tempos de execução está disponível no arquivo [`relatorio_portfolio_haskell.pdf`](https://www.google.com/search?q=./relatorio_portfolio_haskell.pdf).
+A documentação detalhada contendo a fundamentação teórica, validação passo a passo e análise crítica dos tempos de execução está disponível no arquivo [`Relatório Técnico.pdf`].
 
 ---
 
