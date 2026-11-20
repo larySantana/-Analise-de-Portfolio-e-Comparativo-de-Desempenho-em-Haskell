@@ -67,16 +67,10 @@ produtoEscalarVetor pesosVetor retornosMediosVetor -- Retorno esperado da cartei
 Utilizando uma semana de pregão para **PETR4** (`[38.20, 38.80, 37.90, 39.10, 39.60]`) e uma carteira com alocação de **40% PETR4**, **35% VALE3** e **25% ITUB4**:
 
 | Métrica | Resultado Obtido | Status |
-| --- | --- | --- |
-| **Retornos Diários (PETR4)** | `[0.015707, -0.023196, 0.031662, 0.012788]`
-
- | ✔️ Validado |
-| **Retorno Médio Diário (PETR4)** | `0.009240` (`0,92%`)
-
- | ✔️ Validado |
-| **Retorno Esperado do Portfólio ($R_p$)** | `0.008210` (`0,82%`)
-
- | ✔️ Validado |
+| :--- | :---: | :---: |
+| **Retornos Diários (PETR4)** | `[0.015707, -0.023196, 0.031662, 0.012788]` | ✔️ Validado |
+| **Retorno Médio Diário (PETR4)** | `0.009240` (`0,92%`) | ✔️ Validado |
+| **Retorno Esperado do Portfólio ($R_p$)** | `0.008210` (`0,82%`) | ✔️ Validado |
 
 ---
 
